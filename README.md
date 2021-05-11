@@ -1,2 +1,2 @@
 # MercedesCLA
-This is a car company
+This is a car company and also a car brand
